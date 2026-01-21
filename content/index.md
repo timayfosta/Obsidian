@@ -1,6 +1,7 @@
-﻿---
+---
 title: Home
 ---
-# Welcome
+# Shadows of Eldrath Isle Campaign Inorfmation
+Notes will be publish to players here. View rules and session notes and other information deemed necessary. Hopefully it will help with note taking as well.
 
-This is your Quartz site. Put notes in **Public/** to publish them.
+

@@ -1,3 +1,0 @@
-**Shar (Mistress of the Night, Goddess of Darkness and Loss)****Purpose on Eldrath**: Source of shadows and Blight; tempts with whispers of oblivion, testing resolve through deception and sacrifice in shadowed realms. 
-**Description**: A veiled woman in endless black with voids for eyes, Shar revels in secrets, grief, and the erasure of light. Her influence corrupts, but her trials forge stronger destinies. 
-**Worshipper Groups**: Shadow Whisper Cult (hidden sects aiding the Void Whisperer, seeking Blight power); Loss Redeemers (reformed followers purifying dark echoes).

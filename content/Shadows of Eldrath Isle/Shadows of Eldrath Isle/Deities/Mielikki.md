@@ -1,3 +1,0 @@
-**Mielikki (Lady of the Forest, Goddess of Forests and Rangers)****Purpose on Eldrath**: Overseer of woodlands and scouts; empowers rangers like Sylva, fostering exploration and defense against shadow incursions. 
-**Description**: Depicted as a lithe huntress with antlers and a cloak of leaves, Mielikki values the hunt's balance and the forest's secrets. Worship includes archery contests and oaths to protect the wild. 
-**Worshipper Groups**: Forest Striders (ranger orders in Shadowed Marshes, hunting Blight beasts); Sylva's Shadow (elite scouts tracking prophecies).
