@@ -1,0 +1,3 @@
+**Silvanus (Oak Father, God of Wild Nature)****Purpose on Eldrath**: Guardian of the isle's untamed wilderness and natural balance; patron of the Heartstone's elemental core, ensuring harmony between biomes and warding against Blight overgrowth. 
+**Description**: A stern, ancient deity depicted as a massive oak with eyes of emerald fire, Silvanus embodies raw, unbridled nature. He demands respect through druidic rites and sacrifices of personal ambition for the greater ecosystem. 
+**Worshipper Groups**: The Grove Wardens (druidic circles in the Enchanted Groves, focused on harmony rituals); Heartstone Sentinels (rangers patrolling biome borders).
