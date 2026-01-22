@@ -65,7 +65,16 @@ Ready your dice. The mists are waiting.
 
 - **Allowed Books**: Any official books are fine (2014) only for races, classes, backgrounds, and feats. (We’ll introduce custom elements and boons later in the campaign.)
 - **Level**: Start at **Level 1**.
-- **Ability Scores**: Standard point buy (27 points) **or** standard array **or** roll if you'd like.
+- **Ability Scores**: Point buy (27 points) is preferred **or** roll if you'd like. With point buy, and 8 in your modifier cost 0 points.
+
+| Score | Cost | Score | Cost |
+| ----- | ---- | ----- | ---- |
+| 9     | 1    | 15    | 9    |
+| 10    | 2    | 16    | 11   |
+| 11    | 3    | 17    | 14   |
+| 12    | 4    | 18    | 17   |
+| 13    | 5    | 19    | 20   |
+| 14    | 7    | 20    | 23   |
 - **Hit Points**: Maximum at 1st level; take the average (rounded up) or roll for subsequent levels.
 - **Alignment**: Any, but keep in mind the campaign’s themes of self-discovery, nature’s balance, destiny, and sacrifice. Evil alignments may clash with the group’s heroic arc.
 - **Starting Equipment**: As per your class and background. You may also start with one mundane trinket or keepsake from your homeland. Include at least one reason why you have it. (flavor only — no mechanical benefit).
@@ -81,7 +90,7 @@ Craft a backstory that ties you to the mainland but leaves room for growth and m
 4. **Connection to Nature or Magic** – Optional but encouraged: a childhood bond with the wild, a latent gift you’ve never fully understood, or a traumatic encounter with corrupted magic. Be creative, if you need help ask. 
 
 
-### Suggested Races & Classes
+### Races & Classes
 
 All PHB options are [[Welcome]], but these fit the campaign’s tone especially well:
 
@@ -145,11 +154,11 @@ Choose or roll traits that tie into the campaign’s themes. Here are tailored s
 
 ### Final Checklist
 
-- Level 1 character sheet complete (name, race, class, background, stats, proficiencies, equipment)
-- Backstory (1–2 paragraphs up to as long as you want) with mainland origin and reason for sailing east
-- Personality traits, ideal, bond, and flaw
-- One mundane trinket from your past life (If you choose)
-- Be ready to discuss how your character might react to survival, mystery, and awakening power
+- [ ] Level 1 character sheet complete (name, race, class, background, stats, proficiencies, equipment)
+- [ ] Backstory (1–2 paragraphs up to as long as you want) with mainland origin and reason for sailing east
+- [ ] Personality traits, ideal, bond, and flaw
+- [ ] One mundane trinket from your past life (If you choose)
+- [ ] Be ready to discuss how your character might react to survival, mystery, and awakening power
 
 Bring your concepts to Session 0 — we’ll refine them together and forge party connections.
 
