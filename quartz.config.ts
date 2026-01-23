@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "timayfosta.github.io/Obsidian.git",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Links"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
