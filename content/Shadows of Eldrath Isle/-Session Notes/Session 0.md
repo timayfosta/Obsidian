@@ -14,9 +14,12 @@ Eldrath Isle is a mist-shrouded, enchanted land lost in the far southeastern sea
 
 Here, nature itself is both ally and adversary. Balance is fragile. Corruption from the Shadowfell has begun to spread like a blight, twisting life into shadow.
 
-### How Your Story Begins
+### How Your Story Begins (Backstory)
 
 Every character must have a reason for being aboard a ship bound eastward across the distant seas when disaster strikes. You awaken shipwrecked on Eldrath’s shores with fragmented memories, scattered gear, and a sense that the island _chose_ you.
+
+> [!Tip]
+> Feel free to use whatever writing tools help you create an in depth backstory. The deeper the better to be tied into the campaign here and there, or to create specific hooks/side quests for individual characters. Below are a few things to be included in you backstory.
 
 **Ideas for why you were on the ship**: (You don't have to use any of these. You can come up with you own.)
 
@@ -62,18 +65,9 @@ Ready your dice. The mists are waiting.
 
 - **Allowed Books**: Any official books are fine (2014) only for races, classes, backgrounds, and feats. (We’ll introduce custom elements and boons later in the campaign.)
 - **Level**: Start at **Level 1**.
-- **Ability Scores**: Point buy (27 points) is preferred **or** roll if you'd like. With point buy, and 8 in your modifier cost 0 points.
-
-| Score | Cost | Score | Cost |
-| ----- | ---- | ----- | ---- |
-| 9     | 1    | 15    | 9    |
-| 10    | 2    | 16    | 11   |
-| 11    | 3    | 17    | 14   |
-| 12    | 4    | 18    | 17   |
-| 13    | 5    | 19    | 20   |
-| 14    | 7    | 20    | 23   |
+- **Ability Scores**: Point buy (72 points) is preferred **or** roll if you'd like. With point buy, all ability scores start at 0.
 - **Hit Points**: Maximum at 1st level; take the average (rounded up) or roll for subsequent levels.
-- **Alignment**: Any, but keep in mind the campaign’s themes of self-discovery, nature’s balance, destiny, and sacrifice. Evil alignments may clash with the group’s heroic arc.
+- **Alignment**: Any, but keep in mind the campaign’s themes of self-discovery, nature’s balance, destiny, and sacrifice. Evil alignments may clash with the group’s potentially heroic arc.
 - **Starting Equipment**: As per your class and background. You may also start with one mundane trinket or keepsake from your homeland. Include at least one reason why you have it. (flavor only — no mechanical benefit).
 
 
@@ -89,12 +83,10 @@ Craft a backstory that ties you to the mainland but leaves room for growth and m
 
 ### Races & Classes
 
-All PHB options are [[Welcome]], but these fit the campaign’s tone especially well:
-
 **Races**:
 Any race from official 2014 sources. If there is something you have question on, or to see how well it can fit into the story, feel free to ask. 
 **Classes**:
-Any class works — even a city-born rogue or scholarly wizard can discover a deep connection to the island’s magic. You can use any official 2014 source material.
+Any class works — even a city-born rogue or scholarly wizard can discover a deep connection to the island’s magic. You can use any official 2014 source material. Feel free to ask if you have any issues or questions.
 
 ### Bonds, Ideals, & Flaws
 
