@@ -1,0 +1,3 @@
+**Stronmaus (God of Storm Giants, Sun, Sky, and Joy)****Purpose on Eldrath**: Ruler of aerial spires and storms; grants Stormwings for unity, overseeing giant armadas and bittersweet ascensions.
+**Description**: A jolly giant with thundercloud hair and a hammer of lightning, Stronmaus promotes strength through joy and communal feats. Festivals involve aerial games and thunderous feasts. 
+**Worshipper Groups**: Skyward Clans (storm giants in Aerial Spires, uniting factions); Winged Revelers (celebrants earning flight boons).

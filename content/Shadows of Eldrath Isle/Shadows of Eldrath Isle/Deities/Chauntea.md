@@ -1,0 +1,3 @@
+**Chauntea (Great Mother, Goddess of Agriculture and Earth)****Purpose on Eldrath**: Sustainer of fertile lands and earth's bind; blesses herbalists and farmers, countering volcanic ash with bountiful growth and aiding in Heartstone reforging. 
+**Description**: Portrayed as a nurturing earth mother with vines for hair and soil for skin, Chauntea promotes growth, renewal, and the cycle of life. Her worship involves planting sacred groves and offerings of first harvests. 
+**Worshipper Groups**: Earthbind Cultivators (farmers in Highland Enclaves, emphasizing sacrifice for fertility); Lirael's Herbal Legacy (healers in coastal villages, drawing from her lineage).
