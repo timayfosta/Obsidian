@@ -7,7 +7,7 @@ A condition lasts either until it is countered (the prone) condition is counte
 If multiple effects impose the same condition on a creature, each instance of the condition has its own duration, but the condition's effects don't get worse. A creature either has a condition or doesn't.
  The conditions are:
 
-- - **[Blinded](https://5e.tools/conditionsdiseases.html#blinded_phb)
+- [[Resting and Sleep]]**Blinded
 	- A blinded creature can't see and automatically fails any ability check that requires sight.
 	- Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
 - **Charmed
