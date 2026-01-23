@@ -36,14 +36,12 @@ Your gear and memories will be mostly intact after the wreck, but you’ll start
 
 The story unfolds across five "Chapters", each with its own arc, tone, and rewards. Levels progress smoothly from 1 to 20:
 
-A very basic guideline is that each Chapter is roughly 8–20 sessions, blending exploration, combat, roleplay, puzzles, and environmental challenges.
-
 ### Core Themes & Tone
 
 - Self-discovery and growth through adversity
 - The balance (and cost) of nature’s power
 - Destiny vs. choice
-- Elemental mastery and harmony
+- Elemental skill mastery and harmony
 - Sacrifice for something greater
 - Found family among the party and a few recurring allies
 
@@ -51,7 +49,7 @@ The tone is epic yet personal — wondrous and perilous, with moments of beauty,
 
 ### What to Expect
 
-- Heavy emphasis on roleplay, exploration, and environmental storytelling
+- Heavy emphasis on roleplay, exploration, and environmental storytelling. Don't worry, there will be plenty of combat.
 - Combat scaled for a party of 4 as best as possible. Anything possible from easy to deadly, depending on your actions throughout the campaign.
 - Recurring NPC potential allies and enemies who grow alongside you
 - A hopefully satisfying, earned epic conclusion

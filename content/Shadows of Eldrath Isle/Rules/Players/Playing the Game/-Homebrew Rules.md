@@ -3,7 +3,7 @@ _**These will be updated as things change and progress through the game**_
 > [!Important]
 >  Make sure you read ALL the rules for your characters and understand them. If there is something you don’t understand ask the DM and we will make and official ruling on it if I can’t find anything online to support it. Make sure your character is something you will actually roleplay. Doesn’t have to be a lot but give it a good try, try your HARDEST not to metagame. Hopefully this will get better as we progress through a story. 
 
-Things to consider:
+**Things to consider**:
 
  - Not every person you try to talk to knows about a quest, some live quiet lives and don’t venture out. Some are only ever in town to eat and go to sleep. Keep this in mind when you are getting frustrated for not gathering information or getting quests. On the same note, not every room or area you are in is hiding something. Sometimes a room is just that, a boring, plain, simple room with nothing in it. That doesn’t mean don’t check, that just means don’t try to do the same thing over and over.
 
