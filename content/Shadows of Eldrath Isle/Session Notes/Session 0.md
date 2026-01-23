@@ -2,10 +2,6 @@
 
 ## Eldrath Isle: Campaign Overview
 
-(Using 2014 Core Rules: Player’s Handbook, Dungeon Master’s Guide, Monster Manual)_
-
-[[Welcome]], adventurers, to a complete level 1–20 campaign set on a single, extraordinary island far from the familiar lands of Faerûn.
-
 ### The Setting: Eldrath Isle
 
 Eldrath Isle is a mist-shrouded, enchanted land lost in the far southeastern seas of Toril — beyond even the distant fringes of Kara-Tur and the Utter East. It is a place where the boundaries between the Material Plane, the Feywild, and the Shadowfell have grown thin. Ancient magic lingers in the air. The island is alive with wonder and danger:
@@ -14,6 +10,7 @@ Eldrath Isle is a mist-shrouded, enchanted land lost in the far southeastern sea
 - Vast, trackless marshes glowing with strange fungi
 - Windswept cliffs and floating stone isles drifting in the sky
 - Deep primeval forests where the trees remember old songs
+- and much more!
 
 Here, nature itself is both ally and adversary. Balance is fragile. Corruption from the Shadowfell has begun to spread like a blight, twisting life into shadow.
 
