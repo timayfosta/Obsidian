@@ -1,1 +1,1 @@
-<a href="https://fchchurchofgod.com" target="_blank"><img src="https://fcchurchofgod.com/wp-content/uploads/2026/01/Toril.jpeg" alt="Toril_Map"></a>
+<a href="https://fcchurchofgod.com/wp-content/uploads/2026/01/Toril_Map.jpg" target="_blank"><img src="https://fcchurchofgod.com/wp-content/uploads/2026/01/Toril_Map.jpg" alt="Toril_Map"></a>
