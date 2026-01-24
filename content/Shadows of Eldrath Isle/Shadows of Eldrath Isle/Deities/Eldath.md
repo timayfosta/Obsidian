@@ -1,3 +1,0 @@
-**Eldath (Goddess of Singing Waters and Peace)****Purpose on Eldrath**: Protector of serene waters and marshes; calms conflicts, heals Blight-tainted pools, and guides meditative self-discovery amid the isle's mists.
-**Description**: A gentle, ethereal figure with flowing blue robes and a voice like a babbling brook, Eldath advocates nonviolence and inner peace. Her followers seek quiet pools for visions and avoid combat unless defending sacred sites.
-**Worshipper Groups**: Peaceflow Monks (ascetics in Misty Coastal Shores, practicing water rituals); Veil Harmonizers (mediators resolving fey-giant disputes).

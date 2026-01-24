@@ -1,3 +1,0 @@
-**Corellon Larethian (Creator of the Elves, God of Magic, Arts, and Warfare)****Purpose on Eldrath**: Inspirer of elven artistry and fey magic; weaves illusions and destinies in the Mirror Veil, guiding alternate fates toward truth. 
-**Description**: An androgynous, graceful elf with starlit eyes and a sword of light, Corellon champions creativity, freedom, and elegant combat. Rituals involve poetry, dance, and magical duels. 
-**Worshipper Groups**: Starweave Artists (elven bards in Highland Enclaves, crafting harmony songs); Fatebinders (mages unraveling Veil deceptions).

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Home
 ---
-# Welcome
+# The Shadows of Eldrath Isle
 
-This is your Quartz site. Put notes in **Public/** to publish them.
+This site will be used to stay up to date with campaign sessions, notes, maps, etc. If there is something you specifically want to see, just ask.
