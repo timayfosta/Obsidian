@@ -1,6 +1,1 @@
-![Toril_Map.jpg](https://i.postimg.cc/gJYrrgJS/Toril_Map.jpg)
-
-
-
-
-
+<a href="https://postimg.cc/SXvmv7cC" target="_blank"><img src="https://i.postimg.cc/gJYrrgJS/Toril_Map.jpg" alt="Toril_Map"></a>
