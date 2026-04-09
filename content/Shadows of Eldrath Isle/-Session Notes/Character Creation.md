@@ -1,6 +1,6 @@
 >[!Reminder] Remember to read through the campaign rules page so you know what to expect during your adventure.
 
-All of these suggestions for races, subraces, classes and subclasses are for 2014 characters. I haven't read all of the 2024 material, so I don't know everything that is in there that may be different from 2014. If there is something in the 2024 that grabs your attention, let me know and we will see how to incorporate it into the 2014 rules to get you the character you want.
+All of these suggestions for races, subraces, classes and subclasses are for 2014 characters. I haven't read all of the 2024 material, so I don't know everything that is in there that may be different from 2014. If there is something in the 2024 that grabs your attention, let me know and we will see how to incorporate it into the 2014 rules to get you the character you want. 
 
 ### Core Rules & Sources
 
